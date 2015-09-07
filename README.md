@@ -32,3 +32,7 @@
   * ELK Elasticsearch log, it function is "indexing of logs"
   * Logstash, this clustor gathered logs and deliver to Elastic search
   * kibana , kibana is just for visualizing
+* SSL , SSL Certificates are small data files that digitally bind a cryptographic key to an organization's details. When installed on a web server, it activates the padlock and the https protocol (over port 443) and allows secure connections from a web server to a browser.
+
+ 
+
