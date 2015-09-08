@@ -16,20 +16,6 @@
   * Exampl : /graphics/image.png
   * absolute,  the absolute path contains the root directory and all other subdirectories that contain a file or folder
   * Example http://www.mysite.com/graphics/image.png
-  
-
-* Patching, security updates after specific time
-* Main panel of AWS
-  * where diffrent application run and we select according to our need
-  * first OS then choose an instance type then configure instance detail then add storage  then instance tay and security
-* Mail relog
-  * AWS give services of ses (simple email service) you can just send email no inbox in this
-* # root user 
-* $ ordinary user
-* sudo su,  switching user with bash which is non-log-in shell
-* sudo su- , This time it is a login shell, so /etc/profile, .profile and .bashrc are executed and
-            * you will find yourself in root's home directory with root's environment
-            
 * Data have issues, if issues then logs, when logs then we clustor to handle logs
   * ELK Elasticsearch log, it function is "indexing of logs"
   * Logstash, this clustor gathered logs and deliver to Elastic search
