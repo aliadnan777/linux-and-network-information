@@ -2,7 +2,7 @@
 
 * FAIL OVER
   * in fail over case we have to seprate servers on diffrent location
-  * if primary server stop working, dns server  point to secondry server start responding
+  * if primary server stop working, dns server  point to secondry server after specific time, secondry server start responding
   * when primary server will be in working condition, dns server point to primary server  
   
 * SSL Purchasing
