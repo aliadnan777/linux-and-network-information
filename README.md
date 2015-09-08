@@ -15,7 +15,7 @@
   * relative, A relative path is a way to specify the location of a directory relative to another directory
   * absolute,  the absolute path contains the root directory and all other subdirectories that contain a file or folder
   
-* Usage of teamviewer software
+
 * Patching, security updates after specific time
 * Main panel of AWS
   * where diffrent application run and we select according to our need
